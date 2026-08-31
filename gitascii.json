@@ -12,7 +12,9 @@
         "width": 800,
         "height": 90
       },
-      "config": {},
+      "config": {
+        "showTitle": false
+      },
       "locked": false,
       "visible": true,
       "zIndex": 1,
