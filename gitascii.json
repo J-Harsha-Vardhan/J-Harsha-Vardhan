@@ -35,9 +35,10 @@
       "config": {
         "customBio": "AI/ML enthusiast building real-world solutions with Java, SQL & machine learning. Constantly learning, building, and improving my problem-solving skills.",
         "textAlign": "center",
-        "showTitle": false,
+        "showTitle": true,
         "hideBorder": true,
-        "hideDecorations": false
+        "hideDecorations": false,
+        "customTitle": " "
       },
       "locked": false,
       "visible": true,
