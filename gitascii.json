@@ -13,7 +13,8 @@
         "height": 90
       },
       "config": {
-        "showTitle": false
+        "showTitle": false,
+        "hideBorder": true
       },
       "locked": false,
       "visible": true,
@@ -25,7 +26,7 @@
       "name": "Bio Widget",
       "position": {
         "x": 90,
-        "y": 80
+        "y": 90
       },
       "size": {
         "width": 620,
@@ -34,7 +35,9 @@
       "config": {
         "customBio": "AI/ML enthusiast building real-world solutions with Java, SQL & machine learning. Constantly learning, building, and improving my problem-solving skills.",
         "textAlign": "center",
-        "showTitle": false
+        "showTitle": false,
+        "hideBorder": true,
+        "hideDecorations": false
       },
       "locked": false,
       "visible": true,
@@ -45,8 +48,8 @@
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
-        "x": 90,
-        "y": 224
+        "x": 94,
+        "y": 248
       },
       "size": {
         "width": 620,
@@ -58,7 +61,8 @@
           "py",
           "mysql"
         ],
-        "showTitle": false
+        "showTitle": false,
+        "hideBorder": true
       },
       "locked": false,
       "visible": true,
@@ -70,14 +74,15 @@
       "name": "Github-readme-stats Widget",
       "position": {
         "x": 208,
-        "y": 364
+        "y": 396
       },
       "size": {
         "width": 392,
         "height": 210
       },
       "config": {
-        "showTitle": false
+        "showTitle": false,
+        "hideBorder": true
       },
       "locked": false,
       "visible": true,
