@@ -19,28 +19,11 @@
       "instanceId": "widget_1788171512371_0"
     },
     {
-      "widgetId": "avatar",
-      "name": "Avatar Widget",
-      "position": {
-        "x": 0,
-        "y": 106
-      },
-      "size": {
-        "width": 150,
-        "height": 150
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 2,
-      "instanceId": "widget_1788171512371_1"
-    },
-    {
       "widgetId": "bio",
       "name": "Bio Widget",
       "position": {
-        "x": 166,
-        "y": 106
+        "x": 90,
+        "y": 80
       },
       "size": {
         "width": 620,
@@ -49,7 +32,7 @@
       "config": {
         "customBio": "AI/ML enthusiast building real-world solutions with Java, SQL & machine learning. Constantly learning, building, and improving my problem-solving skills.",
         "textAlign": "center",
-        "showTitle": true
+        "showTitle": false
       },
       "locked": false,
       "visible": true,
@@ -60,11 +43,11 @@
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
-        "x": 0,
-        "y": 272
+        "x": 90,
+        "y": 224
       },
       "size": {
-        "width": 800,
+        "width": 620,
         "height": 140
       },
       "config": {
@@ -72,7 +55,8 @@
           "java",
           "py",
           "mysql"
-        ]
+        ],
+        "showTitle": false
       },
       "locked": false,
       "visible": true,
@@ -83,62 +67,20 @@
       "widgetId": "github-readme-stats",
       "name": "Github-readme-stats Widget",
       "position": {
-        "x": 0,
-        "y": 428
+        "x": 208,
+        "y": 364
       },
       "size": {
-        "width": 390,
+        "width": 392,
         "height": 210
       },
-      "config": {},
+      "config": {
+        "showTitle": false
+      },
       "locked": false,
       "visible": true,
       "zIndex": 5,
       "instanceId": "widget_1788171512371_4"
-    },
-    {
-      "widgetId": "streak-stats",
-      "name": "Streak-stats Widget",
-      "position": {
-        "x": 410,
-        "y": 428
-      },
-      "size": {
-        "width": 390,
-        "height": 210
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1788171512371_5"
-    },
-    {
-      "instanceId": "widget_1788172043683",
-      "widgetId": "social-media",
-      "name": "Social-media Widget",
-      "position": {
-        "x": 0,
-        "y": 654
-      },
-      "size": {
-        "width": 800,
-        "height": 120
-      },
-      "config": {
-        "selectedSocials": [
-          "github",
-          "email",
-          "linkedin"
-        ],
-        "socialUrls": {
-          "github": "https://github.com/J-Harsha-Vardhan",
-          "email": "mailto:jharshavardhan130@gmail.com"
-        }
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 7
     }
   ],
   "globalStyles": {
