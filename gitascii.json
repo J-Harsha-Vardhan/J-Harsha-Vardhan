@@ -1,0 +1,157 @@
+{
+  "username": "J-Harsha-Vardhan",
+  "widgets": [
+    {
+      "widgetId": "header",
+      "name": "Header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1788171512371_0"
+    },
+    {
+      "widgetId": "avatar",
+      "name": "Avatar Widget",
+      "position": {
+        "x": 0,
+        "y": 106
+      },
+      "size": {
+        "width": 150,
+        "height": 150
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 2,
+      "instanceId": "widget_1788171512371_1"
+    },
+    {
+      "widgetId": "bio",
+      "name": "Bio Widget",
+      "position": {
+        "x": 166,
+        "y": 106
+      },
+      "size": {
+        "width": 620,
+        "height": 150
+      },
+      "config": {
+        "customBio": "AI/ML enthusiast building real-world solutions with Java, SQL & machine learning. Constantly learning, building, and improving my problem-solving skills.",
+        "textAlign": "center",
+        "showTitle": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_1788171512371_2"
+    },
+    {
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 0,
+        "y": 272
+      },
+      "size": {
+        "width": 800,
+        "height": 140
+      },
+      "config": {
+        "selectedTechs": [
+          "java",
+          "py",
+          "mysql"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1788171512371_3"
+    },
+    {
+      "widgetId": "github-readme-stats",
+      "name": "Github-readme-stats Widget",
+      "position": {
+        "x": 0,
+        "y": 428
+      },
+      "size": {
+        "width": 390,
+        "height": 210
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 5,
+      "instanceId": "widget_1788171512371_4"
+    },
+    {
+      "widgetId": "streak-stats",
+      "name": "Streak-stats Widget",
+      "position": {
+        "x": 410,
+        "y": 428
+      },
+      "size": {
+        "width": 390,
+        "height": 210
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 6,
+      "instanceId": "widget_1788171512371_5"
+    },
+    {
+      "instanceId": "widget_1788172043683",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 0,
+        "y": 654
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "selectedSocials": [
+          "github",
+          "email",
+          "linkedin"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/J-Harsha-Vardhan",
+          "email": "mailto:jharshavardhan130@gmail.com"
+        }
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#09090b",
+    "textColor": "#f4f4f5",
+    "accentColor": "#a1a1aa",
+    "borderColor": "#27272a",
+    "fontFamily": "'Inter Tight', sans-serif",
+    "borderRadius": 12,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "bento_grid"
+  },
+  "templateId": "bento_grid",
+  "profileSlug": "default"
+}
